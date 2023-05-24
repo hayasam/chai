@@ -16,7 +16,7 @@ jpype1==1.2.1
     # via -r requirements.in
 numpy==1.19.5
     # via torch
-requests==2.25.1
+requests==2.31.0
     # via -r requirements.in
 torch==1.8.1
     # via -r requirements.in
