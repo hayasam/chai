@@ -28,5 +28,5 @@ typing-extensions==3.10.0.0
     #   torch
 unidiff==0.6.0
     # via -r requirements.in
-urllib3==1.26.4
+urllib3==1.26.18
     # via requests
