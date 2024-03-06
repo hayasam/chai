@@ -14,7 +14,7 @@ idna==2.10
     # via requests
 jpype1==1.2.1
     # via -r requirements.in
-numpy==1.19.5
+numpy==1.22.2
     # via torch
 requests==2.25.1
     # via -r requirements.in
