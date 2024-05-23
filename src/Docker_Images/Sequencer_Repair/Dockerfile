@@ -1,4 +1,4 @@
-FROM openjdk:8u252-jdk-slim
+FROM openjdk:8-jdk-slim
 COPY --from=python:3.6-slim / /
 
 WORKDIR /root/sequencer
