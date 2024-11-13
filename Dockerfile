@@ -1,5 +1,5 @@
 # docker build -t ubuntu1604py36
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20210114
 
 RUN apt-get update
 
