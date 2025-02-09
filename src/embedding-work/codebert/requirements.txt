@@ -14,11 +14,11 @@ idna==2.10
     # via requests
 jpype1==1.2.1
     # via -r requirements.in
-numpy==1.19.5
+numpy==1.22.2
     # via torch
 requests==2.25.1
     # via -r requirements.in
-torch==1.8.1
+torch==2.2.0
     # via -r requirements.in
 tqdm==4.60.0
     # via -r requirements.in
